@@ -1,0 +1,19 @@
+{
+  "name": "addfriendproject",
+  "version": "1.0.0",
+  "description": "Add freind with same button ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshishBhujbal/addFriend.git"
+  },
+  "author": "ashish bhujbal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AshishBhujbal/addFriend/issues"
+  },
+  "homepage": "https://github.com/AshishBhujbal/addFriend#readme"
+}
